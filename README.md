@@ -51,7 +51,7 @@ python chord_generator.py
 
 - Optional CLI arguments
   - `-h`/`--help`: Show help about these CLI arguments
-  - `-r`/`--r`: Root of the scale you want to practice. If left empty, chords
+  - `-r`/`--root`: Root of the scale you want to practice. If left empty, chords
     are generated chromatically instead of diatonic to a key.
   - `-m`/`--mode`: Mode/scale you want to practice. Includes the seven
     church modes, as well as `major`, `minor`, `melodic_minor` and `harmonic_minor`.
